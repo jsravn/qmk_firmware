@@ -45,6 +45,9 @@ mkShell {
       pkgsCross.avr.buildPackages.gcc8
       avrlibc
       avrdude
+      kicad
+      hid-listen
+      bear
     ]
     ++ lib.optional arm [ gcc-arm-embedded ]
     ++ lib.optional teensy [ teensy-loader-cli ];
