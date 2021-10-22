@@ -1,2 +1,3 @@
+USER_NAME = manna-harbour_miryoku
 MIRYOKU_ALPHAS = QWERTY
 MIRYOKU_NAV = VI
