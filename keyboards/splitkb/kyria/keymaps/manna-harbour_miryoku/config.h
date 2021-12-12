@@ -36,5 +36,4 @@ XXX, K20, K21, K22, K23, K24, XXX, XXX,      XXX, XXX, K25, K26, K27, K28, K29, 
 )
 #endif
 
-
-#define RGBLIGHT_DEFAULT_VAL 10
+#define OLED_BRIGHTNESS 1
