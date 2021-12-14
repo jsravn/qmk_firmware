@@ -36,4 +36,6 @@ XXX, K20, K21, K22, K23, K24, XXX, XXX,      XXX, XXX, K25, K26, K27, K28, K29, 
 )
 #endif
 
+// Configure OLED.
 #define OLED_BRIGHTNESS 1
+#define OLED_TIMEOUT 10000
